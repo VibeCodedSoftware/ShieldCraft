@@ -42,7 +42,7 @@ pub const COMPONENTS: &[Component] = &[
     Component {
         name: "ShieldCraft",
         author: "ShieldCraft contributors",
-        url: "https://github.com/DFairGamz/ShieldCraft",
+        url: "https://github.com/VibeCodedSoftware/ShieldCraft",
         status: Status::ThisProject,
         license: "MIT OR Apache-2.0",
         license_file: Some("LICENSE-MIT"),

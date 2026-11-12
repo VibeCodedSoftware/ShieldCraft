@@ -29,7 +29,7 @@ of Chicago (Glaze, Nightshade), HopeArtOrg or Lantern.
 
 ## Download
 
-Get the latest version from the [Releases page](https://github.com/DFairGamz/ShieldCraft/releases/latest):
+Get the latest version from the [Releases page](https://github.com/VibeCodedSoftware/ShieldCraft/releases/latest):
 
 | File | What it is |
 |---|---|

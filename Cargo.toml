@@ -4,7 +4,7 @@ default-members = ["crates/shieldcraft-studio", "crates/shieldcraft-core"]
 resolver = "3"
 
 [workspace.package]
-repository = "https://github.com/DFairGamz/ShieldCraft"
+repository = "https://github.com/VibeCodedSoftware/ShieldCraft"
 version = "1.0.0"
 edition = "2021"
 rust-version = "1.90"
