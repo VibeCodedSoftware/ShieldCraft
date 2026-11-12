@@ -1,0 +1,1392 @@
+﻿ShieldCraft - Rust crates compiled into the Windows build
+Generated 2026-11-12 from cargo metadata (runtime dependencies only).
+Full license files for each crate are in licenses/crates/<name>-<version>/.
+
+ab_glyph 0.2.32
+    License: Apache-2.0
+    Source: https://github.com/alexheretic/ab-glyph
+    License files: LICENSE
+ab_glyph_rasterizer 0.1.10
+    License: Apache-2.0
+    Source: https://github.com/alexheretic/ab-glyph
+    License files: LICENSE
+accesskit 0.21.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/AccessKit/accesskit
+    License files: none shipped by the crate - see its repository
+accesskit_consumer 0.31.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/AccessKit/accesskit
+    License files: none shipped by the crate - see its repository
+accesskit_windows 0.29.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/AccessKit/accesskit
+    License files: none shipped by the crate - see its repository
+accesskit_winit 0.29.2
+    License: Apache-2.0
+    Source: https://github.com/AccessKit/accesskit
+    License files: none shipped by the crate - see its repository
+adler2 2.0.1
+    License: 0BSD OR MIT OR Apache-2.0
+    Source: https://github.com/oyvindln/adler2
+    License files: LICENSE-0BSD, LICENSE-APACHE, LICENSE-MIT
+ahash 0.8.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/tkaitchuck/ahash
+    License files: LICENSE-APACHE, LICENSE-MIT
+aho-corasick 1.1.5
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/aho-corasick
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+aligned 0.4.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-embedded-community/aligned
+    License files: LICENSE-APACHE, LICENSE-MIT
+aligned-vec 0.6.4
+    License: MIT
+    Source: https://github.com/sarah-ek/aligned-vec/
+    License files: LICENSE
+anstream 1.0.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+anstyle 1.0.14
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+anstyle-parse 1.0.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+anstyle-query 1.1.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+anstyle-wincon 3.0.11
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+anyhow 1.0.104
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/anyhow
+    License files: LICENSE-APACHE, LICENSE-MIT
+arboard 3.7.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/1Password/arboard
+    License files: LICENSE-APACHE.txt, LICENSE-MIT.txt
+arg_enum_proc_macro 0.3.4
+    License: MIT
+    Source: https://github.com/lu-zero/arg_enum_proc_macro
+    License files: LICENSE
+arrayvec 0.7.8
+    License: MIT OR Apache-2.0
+    Source: https://github.com/bluss/arrayvec
+    License files: LICENSE-APACHE, LICENSE-MIT
+as-slice 0.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/japaric/as-slice
+    License files: LICENSE-APACHE, LICENSE-MIT
+atomic-wait 1.1.0
+    License: BSD-2-Clause
+    Source: https://github.com/m-ou-se/atomic-wait
+    License files: LICENSE
+av1-grain 0.2.5
+    License: BSD-2-Clause
+    Source: https://github.com/rust-av/av1-grain
+    License files: LICENSE
+avif-serialize 0.8.9
+    License: BSD-3-Clause
+    Source: https://github.com/kornelski/avif-serialize
+    License files: LICENSE
+av-scenechange 0.14.1
+    License: MIT
+    Source: https://github.com/rust-av/av-scenechange
+    License files: LICENSE
+base64 0.23.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/marshallpierce/rust-base64
+    License files: LICENSE-APACHE, LICENSE-MIT
+bit_field 0.10.3
+    License: Apache-2.0/MIT
+    Source: https://github.com/phil-opp/rust-bit-field
+    License files: LICENSE-APACHE, LICENSE-MIT
+bitflags 2.13.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/bitflags/bitflags
+    License files: LICENSE-APACHE, LICENSE-MIT
+bitstream-io 4.10.0
+    License: MIT/Apache-2.0
+    Source: https://github.com/tuffy/bitstream-io
+    License files: LICENSE-APACHE, LICENSE-MIT
+bitvec 1.1.1
+    License: MIT
+    Source: https://github.com/bitvecto-rs/bitvec
+    License files: LICENSE.txt
+blind_watermark 0.1.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/naganohara-yoshino/blind-watermark-rust
+    License files: LICENSE-APACHE, LICENSE-MIT
+block-buffer 0.10.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/utils
+    License files: LICENSE-APACHE, LICENSE-MIT
+bstr 1.13.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/BurntSushi/bstr
+    License files: COPYING, LICENSE-APACHE, LICENSE-MIT
+bumpalo 3.20.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/fitzgen/bumpalo
+    License files: LICENSE-APACHE, LICENSE-MIT
+bytemuck 1.25.2
+    License: Zlib OR Apache-2.0 OR MIT
+    Source: https://github.com/Lokathor/bytemuck
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB
+bytemuck_derive 1.12.1
+    License: Zlib OR Apache-2.0 OR MIT
+    Source: https://github.com/Lokathor/bytemuck
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB
+byteorder 1.5.0
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/byteorder
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+byteorder-lite 0.1.0
+    License: Unlicense OR MIT
+    Source: https://github.com/image-rs/byteorder-lite
+    License files: LICENSE-MIT, UNLICENSE
+bytes 1.12.1
+    License: MIT
+    Source: https://github.com/tokio-rs/bytes
+    License files: LICENSE
+cfg-if 1.0.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/cfg-if
+    License files: LICENSE-APACHE, LICENSE-MIT
+chacha20 0.10.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/stream-ciphers
+    License files: LICENSE-APACHE, LICENSE-MIT
+clap 4.6.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/clap-rs/clap
+    License files: LICENSE-APACHE, LICENSE-MIT
+clap_builder 4.6.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/clap-rs/clap
+    License files: LICENSE-APACHE, LICENSE-MIT
+clap_derive 4.6.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/clap-rs/clap
+    License files: LICENSE-APACHE, LICENSE-MIT
+clap_lex 1.1.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/clap-rs/clap
+    License files: LICENSE-APACHE, LICENSE-MIT
+clipboard-win 5.4.1
+    License: BSL-1.0
+    Source: https://github.com/DoumanAsh/clipboard-win
+    License files: none shipped by the crate - see its repository
+color_quant 1.1.0
+    License: MIT
+    Source: https://github.com/image-rs/color_quant.git
+    License files: LICENSE
+colorchoice 1.0.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-cli/anstyle.git
+    License files: LICENSE-APACHE, LICENSE-MIT
+colored 3.1.1
+    License: MPL-2.0
+    Source: https://github.com/mackwic/colored
+    License files: LICENSE
+console 0.16.6
+    License: MIT
+    Source: https://github.com/console-rs/console
+    License files: LICENSE
+cpufeatures 0.2.17
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/utils
+    License files: LICENSE-APACHE, LICENSE-MIT
+cpufeatures 0.3.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/utils
+    License files: LICENSE-APACHE, LICENSE-MIT
+crc32fast 1.5.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/srijs/rust-crc32fast
+    License files: LICENSE-APACHE, LICENSE-MIT
+crossbeam 0.8.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT
+crossbeam-channel 0.5.17
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-THIRD-PARTY
+crossbeam-deque 0.8.8
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT
+crossbeam-epoch 0.9.21
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT
+crossbeam-queue 0.3.14
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT
+crossbeam-utils 0.8.23
+    License: MIT OR Apache-2.0
+    Source: https://github.com/crossbeam-rs/crossbeam
+    License files: LICENSE-APACHE, LICENSE-MIT
+crypto-common 0.1.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/traits
+    License files: LICENSE-APACHE, LICENSE-MIT
+cursor-icon 1.2.0
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: https://github.com/rust-windowing/cursor-icon
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB
+darling 0.20.11
+    License: MIT
+    Source: https://github.com/TedDriggs/darling
+    License files: LICENSE
+darling_core 0.20.11
+    License: MIT
+    Source: https://github.com/TedDriggs/darling
+    License files: LICENSE
+darling_macro 0.20.11
+    License: MIT
+    Source: https://github.com/TedDriggs/darling
+    License files: LICENSE
+derive_builder 0.20.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/colin-kiegel/rust-derive-builder
+    License files: LICENSE-APACHE, LICENSE-MIT
+derive_builder_core 0.20.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/colin-kiegel/rust-derive-builder
+    License files: LICENSE-APACHE, LICENSE-MIT
+derive_builder_macro 0.20.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/colin-kiegel/rust-derive-builder
+    License files: LICENSE-APACHE, LICENSE-MIT
+digest 0.10.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/traits
+    License files: LICENSE-APACHE, LICENSE-MIT
+directories 6.0.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/soc/directories-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+dirs-sys 0.5.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dirs-dev/dirs-sys-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+displaydoc 0.2.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/yaahc/displaydoc
+    License files: LICENSE-APACHE, LICENSE-MIT
+document-features 0.2.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/slint-ui/document-features
+    License files: LICENSE-APACHE, LICENSE-MIT
+dpi 0.1.2
+    License: Apache-2.0 AND MIT
+    Source: https://github.com/rust-windowing/winit
+    License files: LICENSE, LICENSE-LIBM-MIT
+dyn-stack 0.13.2
+    License: MIT
+    Source: https://codeberg.org/sarah-quinones/dyn-stack
+    License files: LICENSE
+dyn-stack-macros 0.1.3
+    License: MIT
+    Source: https://github.com/kitegi/dynstack/
+    License files: LICENSE
+ecolor 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui
+    License files: none shipped by the crate - see its repository
+eframe 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui/tree/main/crates/eframe
+    License files: none shipped by the crate - see its repository
+egui 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui
+    License files: none shipped by the crate - see its repository
+egui_glow 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui/tree/main/crates/egui_glow
+    License files: none shipped by the crate - see its repository
+egui-phosphor 0.11.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/amPerl/egui-phosphor
+    License files: LICENSE-APACHE, LICENSE-MIT
+egui-winit 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui/tree/main/crates/egui-winit
+    License files: none shipped by the crate - see its repository
+either 1.19.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rayon-rs/either
+    License files: LICENSE-APACHE, LICENSE-MIT
+emath 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui/tree/main/crates/emath
+    License files: none shipped by the crate - see its repository
+encode_unicode 1.0.0
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/tormol/encode_unicode
+    License files: LICENSE-APACHE, LICENSE-MIT
+epaint 0.33.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/emilk/egui/tree/main/crates/epaint
+    License files: none shipped by the crate - see its repository
+epaint_default_fonts 0.33.3
+    License: (MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0
+    Source: https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts
+    License files: none shipped by the crate - see its repository
+equator 0.2.2
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: none shipped by the crate - see its repository
+equator 0.4.2
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: LICENSE
+equator 0.6.0
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: LICENSE
+equator-macro 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: none shipped by the crate - see its repository
+equator-macro 0.4.2
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: LICENSE
+equator-macro 0.6.0
+    License: MIT
+    Source: https://github.com/sarah-ek/equator/
+    License files: LICENSE
+error-code 3.4.0
+    License: BSL-1.0
+    Source: https://github.com/DoumanAsh/error-code
+    License files: LICENSE
+exr 1.74.2
+    License: BSD-3-Clause
+    Source: https://github.com/johannesvollmer/exrs
+    License files: LICENSE.md
+faer 0.24.4
+    License: MIT
+    Source: https://codeberg.org/sarah-quinones/faer
+    License files: COPYING.EIGEN.MPL2, COPYING.LAPACK.BSD, COPYING.SUITE_SPARSE.AMD.BSD, COPYING.SUITE_SPARSE.COLAMD.BSD
+faer-traits 0.24.0
+    License: MIT
+    Source: https://codeberg.org/sarah-quinones/faer
+    License files: none shipped by the crate - see its repository
+fax 0.2.7
+    License: MIT
+    Source: https://github.com/pdf-rs/fax
+    License files: LICENSE
+fdeflate 0.3.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/fdeflate
+    License files: LICENSE-APACHE, LICENSE-MIT
+flate2 1.1.10
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/flate2-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+fnv 1.0.7
+    License: Apache-2.0 / MIT
+    Source: https://github.com/servo/rust-fnv
+    License files: LICENSE-APACHE, LICENSE-MIT
+foldhash 0.1.5
+    License: Zlib
+    Source: https://github.com/orlp/foldhash
+    License files: LICENSE
+form_urlencoded 1.2.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/servo/rust-url
+    License files: LICENSE-APACHE, LICENSE-MIT
+funty 2.0.0
+    License: MIT
+    Source: https://github.com/myrrlyn/funty
+    License files: LICENSE.txt
+gemm 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-c32 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-c64 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-common 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-f16 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-f32 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+gemm-f64 0.19.0
+    License: MIT
+    Source: https://github.com/sarah-ek/gemm/
+    License files: LICENSE
+generativity 1.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/CAD97/generativity
+    License files: LICENSE-APACHE, LICENSE-MIT
+generic-array 0.14.7
+    License: MIT
+    Source: https://github.com/fizyk20/generic-array.git
+    License files: LICENSE
+getrandom 0.2.17
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/getrandom
+    License files: LICENSE-APACHE, LICENSE-MIT
+getrandom 0.3.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/getrandom
+    License files: LICENSE-APACHE, LICENSE-MIT
+getrandom 0.4.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/getrandom
+    License files: LICENSE-APACHE, LICENSE-MIT
+gif 0.14.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/image-gif
+    License files: LICENSE-APACHE, LICENSE-MIT
+globset 0.4.20
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/ripgrep/tree/master/crates/globset
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+glow 0.16.0
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: https://github.com/grovesNL/glow
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB
+glutin 0.32.3
+    License: Apache-2.0
+    Source: https://github.com/rust-windowing/glutin
+    License files: LICENSE
+glutin_egl_sys 0.7.1
+    License: Apache-2.0
+    Source: https://github.com/rust-windowing/glutin
+    License files: LICENSE
+glutin_wgl_sys 0.6.1
+    License: Apache-2.0
+    Source: https://github.com/rust-windowing/glutin
+    License files: LICENSE
+glutin-winit 0.5.0
+    License: MIT
+    Source: https://github.com/rust-windowing/glutin
+    License files: LICENSE
+half 2.7.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/VoidStarKat/half-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+hashbrown 0.15.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/hashbrown
+    License files: LICENSE-APACHE, LICENSE-MIT
+heck 0.5.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/withoutboats/heck
+    License files: LICENSE-APACHE, LICENSE-MIT
+http 1.5.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/hyperium/http
+    License files: LICENSE-APACHE, LICENSE-MIT
+httparse 1.10.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/seanmonstar/httparse
+    License files: LICENSE-APACHE, LICENSE-MIT
+icu_collections 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_locale_core 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_normalizer 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_normalizer_data 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_properties 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_properties_data 2.3.0
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+icu_provider 2.3.1
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+ident_case 1.0.1
+    License: MIT/Apache-2.0
+    Source: https://github.com/TedDriggs/ident_case
+    License files: LICENSE
+idna 1.1.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/servo/rust-url/
+    License files: LICENSE-APACHE, LICENSE-MIT
+idna_adapter 1.2.2
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/hsivonen/idna_adapter
+    License files: LICENSE-APACHE, LICENSE-MIT
+ignore 0.4.33
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/ripgrep/tree/master/crates/ignore
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+image 0.25.10
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/image
+    License files: LICENSE-APACHE, LICENSE-MIT
+image-webp 0.2.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/image-webp
+    License files: LICENSE-APACHE, LICENSE-MIT
+img-parts 0.4.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/paolobarbolini/img-parts
+    License files: LICENSE-APACHE, LICENSE-MIT
+imgref 1.12.3
+    License: CC0-1.0 OR Apache-2.0
+    Source: https://github.com/kornelski/imgref
+    License files: LICENSE-APACHE, LICENSE-CC0
+indicatif 0.18.6
+    License: MIT
+    Source: https://github.com/console-rs/indicatif
+    License files: LICENSE
+is_terminal_polyfill 1.70.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/polyfill-rs/is_terminal_polyfill
+    License files: LICENSE-APACHE, LICENSE-MIT
+itertools 0.14.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-itertools/itertools
+    License files: LICENSE-APACHE, LICENSE-MIT
+itoa 1.0.18
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/itoa
+    License files: LICENSE-APACHE, LICENSE-MIT
+lebe 0.5.3
+    License: BSD-3-Clause
+    Source: https://github.com/johannesvollmer/lebe
+    License files: LICENSE-BSD-3-Clause
+libc 0.2.191
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/libc
+    License files: LICENSE-APACHE, LICENSE-MIT
+libloading 0.8.9
+    License: ISC
+    Source: https://github.com/nagisa/rust_libloading/
+    License files: LICENSE
+libloading 0.9.0
+    License: ISC
+    Source: https://github.com/nagisa/rust_libloading/
+    License files: LICENSE
+libm 0.2.16
+    License: MIT
+    Source: https://github.com/rust-lang/compiler-builtins
+    License files: LICENSE.txt
+litemap 0.8.3
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+litrs 1.0.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/LukasKalbertodt/litrs
+    License files: LICENSE-APACHE, LICENSE-MIT
+lock_api 0.4.14
+    License: MIT OR Apache-2.0
+    Source: https://github.com/Amanieu/parking_lot
+    License files: LICENSE-APACHE, LICENSE-MIT
+log 0.4.34
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/log
+    License files: LICENSE-APACHE, LICENSE-MIT
+loop9 0.1.5
+    License: MIT
+    Source: https://gitlab.com/kornelski/loop9.git
+    License files: LICENSE
+matrixmultiply 0.3.11
+    License: MIT/Apache-2.0
+    Source: https://github.com/bluss/matrixmultiply/
+    License files: LICENSE-APACHE, LICENSE-MIT
+maybe-rayon 0.1.1
+    License: MIT
+    Source: https://github.com/shssoichiro/maybe-rayon
+    License files: LICENSE
+memchr 2.8.3
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/memchr
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+memoffset 0.9.1
+    License: MIT
+    Source: https://github.com/Gilnaa/memoffset
+    License files: LICENSE
+miniz_oxide 0.8.9
+    License: MIT OR Zlib OR Apache-2.0
+    Source: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+    License files: LICENSE, LICENSE-APACHE.md, LICENSE-MIT.md, LICENSE-ZLIB.md
+miniz_oxide 0.9.1
+    License: MIT OR Zlib OR Apache-2.0
+    Source: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+    License files: LICENSE, LICENSE-APACHE.md, LICENSE-MIT.md, LICENSE-ZLIB.md
+moxcms 0.8.1
+    License: BSD-3-Clause OR Apache-2.0
+    Source: https://github.com/awxkee/moxcms.git
+    License files: LICENSE-APACHE.md, LICENSE.md
+nano-gemm 0.2.2
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+nano-gemm-c32 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+nano-gemm-c64 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+nano-gemm-core 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+nano-gemm-f32 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+nano-gemm-f64 0.2.1
+    License: MIT
+    Source: https://github.com/sarah-ek/nano-gemm/
+    License files: none shipped by the crate - see its repository
+ndarray 0.17.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-ndarray/ndarray
+    License files: LICENSE-APACHE, LICENSE-MIT
+new_debug_unreachable 1.0.6
+    License: MIT
+    Source: https://github.com/mbrubeck/rust-debug-unreachable
+    License files: LICENSE-MIT
+no_std_io2 0.9.4
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/wcampbell0x2a/no-std-io2
+    License files: LICENSE-APACHE, LICENSE-MIT
+nohash-hasher 0.2.0
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/paritytech/nohash-hasher
+    License files: LICENSE-APACHE, LICENSE-MIT
+nom 8.0.0
+    License: MIT
+    Source: https://github.com/rust-bakery/nom
+    License files: LICENSE
+noop_proc_macro 0.3.0
+    License: MIT
+    Source: https://github.com/lu-zero/noop_proc_macro
+    License files: LICENSE
+npyz 0.8.4
+    License: MIT
+    Source: https://github.com/ExpHP/npyz
+    License files: none shipped by the crate - see its repository
+ntapi 0.4.3
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/MSxDOS/ntapi
+    License files: LICENSE-APACHE, LICENSE-MIT
+num 0.4.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num
+    License files: LICENSE-APACHE, LICENSE-MIT
+num_cpus 1.17.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/seanmonstar/num_cpus
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-bigint 0.4.8
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-bigint
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-complex 0.4.6
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-complex
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-derive 0.4.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-derive
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-integer 0.1.47
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-integer
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-iter 0.1.46
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-iter
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-rational 0.4.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-rational
+    License files: LICENSE-APACHE, LICENSE-MIT
+num-traits 0.2.19
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-num/num-traits
+    License files: LICENSE-APACHE, LICENSE-MIT
+once_cell 1.21.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/matklad/once_cell
+    License files: LICENSE-APACHE, LICENSE-MIT
+once_cell_polyfill 1.70.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/polyfill-rs/once_cell_polyfill
+    License files: LICENSE-APACHE, LICENSE-MIT
+option-ext 0.2.0
+    License: MPL-2.0
+    Source: https://github.com/soc/option-ext.git
+    License files: LICENSE.txt
+ort 2.0.0-rc.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pykeio/ort
+    License files: LICENSE-APACHE, LICENSE-MIT
+ort-sys 2.0.0-rc.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pykeio/ort
+    License files: LICENSE-APACHE, LICENSE-MIT
+owned_ttf_parser 0.25.1
+    License: Apache-2.0
+    Source: https://github.com/alexheretic/owned-ttf-parser
+    License files: LICENSE
+parking_lot 0.12.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/Amanieu/parking_lot
+    License files: LICENSE-APACHE, LICENSE-MIT
+parking_lot_core 0.9.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/Amanieu/parking_lot
+    License files: LICENSE-APACHE, LICENSE-MIT
+paste 1.0.15
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/paste
+    License files: LICENSE-APACHE, LICENSE-MIT
+pastey 0.1.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/as1100k/pastey
+    License files: LICENSE-APACHE, LICENSE-MIT
+percent-encoding 2.3.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/servo/rust-url/
+    License files: LICENSE-APACHE, LICENSE-MIT
+pest 2.9.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pest-parser/pest
+    License files: LICENSE-APACHE, LICENSE-MIT
+pest_derive 2.9.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pest-parser/pest
+    License files: LICENSE-APACHE, LICENSE-MIT
+pest_generator 2.9.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pest-parser/pest
+    License files: LICENSE-APACHE, LICENSE-MIT
+pest_meta 2.9.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/pest-parser/pest
+    License files: LICENSE-APACHE, LICENSE-MIT
+pin-project-lite 0.2.17
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/taiki-e/pin-project-lite
+    License files: LICENSE-APACHE, LICENSE-MIT
+png 0.18.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/image-png
+    License files: LICENSE-APACHE, LICENSE-MIT
+portable-atomic 1.15.0
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/taiki-e/portable-atomic
+    License files: LICENSE-APACHE, LICENSE-MIT
+potential_utf 0.1.6
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+ppv-lite86 0.2.21
+    License: MIT OR Apache-2.0
+    Source: https://github.com/cryptocorrosion/cryptocorrosion
+    License files: LICENSE-APACHE, LICENSE-MIT
+private-gemm-x86 0.1.22
+    License: MIT
+    Source: https://github.com/sarah-quinones/gemm-x64-v2/
+    License files: LICENSE
+proc-macro2 1.0.107
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/proc-macro2
+    License files: LICENSE-APACHE, LICENSE-MIT
+profiling 1.0.18
+    License: MIT OR Apache-2.0
+    Source: https://github.com/aclysma/profiling
+    License files: none shipped by the crate - see its repository
+profiling-procmacros 1.0.18
+    License: MIT OR Apache-2.0
+    Source: https://github.com/aclysma/profiling
+    License files: none shipped by the crate - see its repository
+psm 0.1.24
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/stacker/
+    License files: LICENSE-APACHE, LICENSE-MIT
+pulp 0.22.3
+    License: MIT
+    Source: https://github.com/sarah-quinones/pulp/
+    License files: LICENSE
+pulp-wasm-simd-flag 0.1.1
+    License: MIT
+    Source: https://github.com/sarah-quinones/pulp/
+    License files: none shipped by the crate - see its repository
+pxfm 0.1.30
+    License: BSD-3-Clause OR Apache-2.0
+    Source: https://github.com/awxkee/pxfm
+    License files: LICENSE-APACHE.md, LICENSE.md
+py_literal 0.4.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/jturner314/py_literal
+    License files: LICENSE-APACHE, LICENSE-MIT
+qd 0.8.0
+    License: MIT
+    Source: https://github.com/sarah-quinones/qd/
+    License files: LICENSE
+qoi 0.4.1
+    License: MIT/Apache-2.0
+    Source: https://github.com/aldanor/qoi-rust
+    License files: LICENSE-APACHE, LICENSE-MIT
+quick-error 2.0.1
+    License: MIT/Apache-2.0
+    Source: http://github.com/tailhook/quick-error
+    License files: LICENSE-APACHE, LICENSE-MIT
+quote 1.0.47
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/quote
+    License files: LICENSE-APACHE, LICENSE-MIT
+radium 0.7.0
+    License: MIT
+    Source: https://github.com/bitvecto-rs/radium
+    License files: LICENSE.txt
+rand 0.10.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand 0.8.8
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand 0.9.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_chacha 0.9.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_core 0.10.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand_core
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_core 0.6.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_core 0.9.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_distr 0.5.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rand_distr
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rand_pcg 0.10.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-random/rngs
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+rav1e 0.8.1
+    License: BSD-2-Clause
+    Source: https://github.com/xiph/rav1e/
+    License files: LICENSE
+ravif 0.13.0
+    License: BSD-3-Clause
+    Source: https://github.com/kornelski/cavif-rs
+    License files: LICENSE
+raw-cpuid 11.6.0
+    License: MIT
+    Source: https://github.com/gz/rust-cpuid
+    License files: LICENSE.md
+rawpointer 0.2.1
+    License: MIT/Apache-2.0
+    Source: https://github.com/bluss/rawpointer/
+    License files: LICENSE-APACHE, LICENSE-MIT
+raw-window-handle 0.6.2
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: https://github.com/rust-windowing/raw-window-handle
+    License files: LICENSE-APACHE.md, LICENSE-MIT.md, LICENSE-ZLIB.md
+rayon 1.12.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rayon-rs/rayon
+    License files: LICENSE-APACHE, LICENSE-MIT
+rayon-core 1.13.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rayon-rs/rayon
+    License files: LICENSE-APACHE, LICENSE-MIT
+reborrow 0.5.5
+    License: MIT
+    Source: https://github.com/sarah-ek/reborrow/
+    License files: LICENSE
+regex-automata 0.4.18
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/regex
+    License files: LICENSE-APACHE, LICENSE-MIT
+regex-syntax 0.8.11
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/regex
+    License files: LICENSE-APACHE, LICENSE-MIT
+rfd 0.15.4
+    License: MIT
+    Source: https://github.com/PolyMeilex/rfd
+    License files: LICENSE
+rgb 0.8.53
+    License: MIT
+    Source: https://github.com/kornelski/rust-rgb
+    License files: LICENSE
+ring 0.17.14
+    License: Apache-2.0 AND ISC
+    Source: https://github.com/briansmith/ring
+    License files: LICENSE, LICENSE-BoringSSL, LICENSE-other-bits
+rustls 0.23.46
+    License: Apache-2.0 OR ISC OR MIT
+    Source: https://github.com/rustls/rustls
+    License files: LICENSE-APACHE, LICENSE-ISC, LICENSE-MIT
+rustls-pki-types 1.15.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rustls/pki-types
+    License files: LICENSE-APACHE, LICENSE-MIT
+rustls-webpki 0.103.16
+    License: ISC
+    Source: https://github.com/rustls/webpki
+    License files: LICENSE
+same-file 1.0.6
+    License: Unlicense/MIT
+    Source: https://github.com/BurntSushi/same-file
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+scopeguard 1.2.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/bluss/scopeguard
+    License files: LICENSE-APACHE, LICENSE-MIT
+seq-macro 0.3.6
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/seq-macro
+    License files: LICENSE-APACHE, LICENSE-MIT
+serde 1.0.229
+    License: MIT OR Apache-2.0
+    Source: https://github.com/serde-rs/serde
+    License files: LICENSE-APACHE, LICENSE-MIT
+serde_core 1.0.229
+    License: MIT OR Apache-2.0
+    Source: https://github.com/serde-rs/serde
+    License files: LICENSE-APACHE, LICENSE-MIT
+serde_derive 1.0.229
+    License: MIT OR Apache-2.0
+    Source: https://github.com/serde-rs/serde
+    License files: LICENSE-APACHE, LICENSE-MIT
+serde_json 1.0.154
+    License: MIT OR Apache-2.0
+    Source: https://github.com/serde-rs/json
+    License files: LICENSE-APACHE, LICENSE-MIT
+sha2 0.10.9
+    License: MIT OR Apache-2.0
+    Source: https://github.com/RustCrypto/hashes
+    License files: LICENSE-APACHE, LICENSE-MIT
+simd_helpers 0.1.0
+    License: MIT
+    Source: https://github.com/lu-zero/simd_helpers
+    License files: none shipped by the crate - see its repository
+simd-adler32 0.3.10
+    License: MIT
+    Source: https://github.com/mcountryman/simd-adler32
+    License files: LICENSE.md
+smallvec 1.16.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/servo/rust-smallvec
+    License files: LICENSE-APACHE, LICENSE-MIT
+smol_str 0.2.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-analyzer/smol_str
+    License files: LICENSE-APACHE, LICENSE-MIT
+spindle 0.2.6
+    License: MIT
+    Source: https://github.com/sarah-quinones/spindle
+    License files: LICENSE
+stable_deref_trait 1.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/storyyeller/stable_deref_trait
+    License files: LICENSE-APACHE, LICENSE-MIT
+stacker 0.1.25
+    License: MIT OR Apache-2.0
+    Source: https://github.com/rust-lang/stacker
+    License files: LICENSE-APACHE, LICENSE-MIT
+static_assertions 1.1.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/nvzqz/static-assertions-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+strsim 0.11.1
+    License: MIT
+    Source: https://github.com/rapidfuzz/strsim-rs
+    License files: LICENSE
+subtle 2.6.1
+    License: BSD-3-Clause
+    Source: https://github.com/dalek-cryptography/subtle
+    License files: LICENSE
+syn 2.0.119
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/syn
+    License files: LICENSE-APACHE, LICENSE-MIT
+syn 3.0.9
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/syn
+    License files: LICENSE-APACHE, LICENSE-MIT
+synstructure 0.14.0
+    License: MIT
+    Source: https://github.com/mystor/synstructure
+    License files: LICENSE
+sysinfo 0.38.4
+    License: MIT
+    Source: https://github.com/GuillaumeGomez/sysinfo
+    License files: LICENSE
+tap 1.0.1
+    License: MIT
+    Source: https://github.com/myrrlyn/tap
+    License files: LICENSE.txt
+thiserror 2.0.21
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/thiserror
+    License files: LICENSE-APACHE, LICENSE-MIT
+thiserror-impl 2.0.21
+    License: MIT OR Apache-2.0
+    Source: https://github.com/dtolnay/thiserror
+    License files: LICENSE-APACHE, LICENSE-MIT
+tiff 0.11.3
+    License: MIT
+    Source: https://github.com/image-rs/image-tiff
+    License files: LICENSE
+tinystr 0.8.4
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+tracing 0.1.44
+    License: MIT
+    Source: https://github.com/tokio-rs/tracing
+    License files: LICENSE
+tracing-attributes 0.1.31
+    License: MIT
+    Source: https://github.com/tokio-rs/tracing
+    License files: LICENSE
+tracing-core 0.1.36
+    License: MIT
+    Source: https://github.com/tokio-rs/tracing
+    License files: LICENSE
+ttf-parser 0.25.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/harfbuzz/ttf-parser
+    License files: LICENSE-APACHE, LICENSE-MIT
+typenum 1.20.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/paholg/typenum
+    License files: LICENSE, LICENSE-APACHE, LICENSE-MIT
+ucd-trie 0.1.7
+    License: MIT OR Apache-2.0
+    Source: https://github.com/BurntSushi/ucd-generate
+    License files: LICENSE-APACHE, LICENSE-MIT
+unicode-ident 1.0.27
+    License: (MIT OR Apache-2.0) AND Unicode-3.0
+    Source: https://github.com/dtolnay/unicode-ident
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-UNICODE
+unicode-segmentation 1.13.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/unicode-rs/unicode-segmentation
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+unicode-width 0.2.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/unicode-rs/unicode-width
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+unit-prefix 0.5.2
+    License: MIT
+    Source: https://codeberg.org/commons-rs/unit-prefix
+    License files: LICENSE
+untrusted 0.9.0
+    License: ISC
+    Source: https://github.com/briansmith/untrusted
+    License files: LICENSE.txt
+ureq 3.4.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/algesten/ureq
+    License files: LICENSE-APACHE, LICENSE-MIT
+ureq-proto 0.6.5
+    License: MIT OR Apache-2.0
+    Source: https://github.com/algesten/ureq-proto
+    License files: LICENSE-APACHE.txt, LICENSE-MIT.txt
+url 2.5.8
+    License: MIT OR Apache-2.0
+    Source: https://github.com/servo/rust-url
+    License files: LICENSE-APACHE, LICENSE-MIT
+utf8_iter 1.0.4
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/hsivonen/utf8_iter
+    License files: COPYRIGHT, LICENSE-APACHE, LICENSE-MIT
+utf8parse 0.2.2
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/alacritty/vte
+    License files: LICENSE-APACHE, LICENSE-MIT
+utf8-zero 0.8.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/algesten/utf8-zero
+    License files: LICENSE-APACHE, LICENSE-MIT
+v_frame 0.3.9
+    License: BSD-2-Clause
+    Source: https://github.com/rust-av/v_frame
+    License files: LICENSE
+walkdir 2.5.0
+    License: Unlicense/MIT
+    Source: https://github.com/BurntSushi/walkdir
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+wasm-bindgen 0.2.129
+    License: MIT OR Apache-2.0
+    Source: https://github.com/wasm-bindgen/wasm-bindgen
+    License files: LICENSE-APACHE, LICENSE-MIT
+wasm-bindgen-macro 0.2.129
+    License: MIT OR Apache-2.0
+    Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro
+    License files: LICENSE-APACHE, LICENSE-MIT
+wasm-bindgen-macro-support 0.2.129
+    License: MIT OR Apache-2.0
+    Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/main/crates/macro-support
+    License files: LICENSE-APACHE, LICENSE-MIT
+wasm-bindgen-shared 0.2.129
+    License: MIT OR Apache-2.0
+    Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/shared
+    License files: LICENSE-APACHE, LICENSE-MIT
+webbrowser 1.2.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/amodm/webbrowser-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+webpki-roots 1.0.10
+    License: CDLA-Permissive-2.0
+    Source: https://github.com/rustls/webpki-roots
+    License files: LICENSE
+web-time 1.1.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/daxpedda/web-time
+    License files: LICENSE-APACHE, LICENSE-MIT
+weezl 0.1.12
+    License: MIT OR Apache-2.0
+    Source: https://github.com/image-rs/weezl
+    License files: LICENSE-APACHE, LICENSE-MIT
+winapi 0.3.9
+    License: MIT/Apache-2.0
+    Source: https://github.com/retep998/winapi-rs
+    License files: LICENSE-APACHE, LICENSE-MIT
+winapi-util 0.1.11
+    License: Unlicense OR MIT
+    Source: https://github.com/BurntSushi/winapi-util
+    License files: COPYING, LICENSE-MIT, UNLICENSE
+windows 0.61.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows 0.62.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows_x86_64_msvc 0.42.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows_x86_64_msvc 0.52.6
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-collections 0.2.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-collections 0.3.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-core 0.61.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-core 0.62.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-future 0.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-future 0.3.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-implement 0.60.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-interface 0.59.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-link 0.1.3
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-link 0.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-numerics 0.2.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-numerics 0.3.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-result 0.3.4
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-result 0.4.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-strings 0.4.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-strings 0.5.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-sys 0.42.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-sys 0.52.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-sys 0.59.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-sys 0.61.2
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-targets 0.52.6
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-threading 0.1.0
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+windows-threading 0.2.1
+    License: MIT OR Apache-2.0
+    Source: https://github.com/microsoft/windows-rs
+    License files: license-apache-2.0, license-mit
+winit 0.30.13
+    License: Apache-2.0
+    Source: https://github.com/rust-windowing/winit
+    License files: LICENSE
+writeable 0.6.4
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+wyz 0.5.1
+    License: MIT
+    Source: https://github.com/myrrlyn/wyz
+    License files: LICENSE.txt
+y4m 0.8.0
+    License: MIT
+    Source: https://github.com/image-rs/y4m.git
+    License files: LICENSE
+yoke 0.8.3
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+yoke-derive 0.8.4
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zerocopy 0.8.63
+    License: BSD-2-Clause OR Apache-2.0 OR MIT
+    Source: https://github.com/google/zerocopy
+    License files: LICENSE-APACHE, LICENSE-BSD, LICENSE-MIT
+zerocopy-derive 0.8.63
+    License: BSD-2-Clause OR Apache-2.0 OR MIT
+    Source: https://github.com/google/zerocopy
+    License files: LICENSE-APACHE, LICENSE-BSD, LICENSE-MIT
+zerofrom 0.1.8
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zerofrom-derive 0.1.8
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zeroize 1.9.1
+    License: Apache-2.0 OR MIT
+    Source: https://github.com/RustCrypto/utils
+    License files: LICENSE-APACHE, LICENSE-MIT
+zerotrie 0.2.5
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zerovec 0.11.8
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zerovec-derive 0.11.6
+    License: Unicode-3.0
+    Source: https://github.com/unicode-org/icu4x
+    License files: LICENSE
+zlib-rs 0.6.8
+    License: Zlib
+    Source: https://github.com/trifectatechfoundation/zlib-rs
+    License files: LICENSE
+zmij 1.0.23
+    License: MIT
+    Source: https://github.com/dtolnay/zmij
+    License files: LICENSE-MIT
+zune-core 0.5.3
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: https://github.com/etemesi254/zune-image
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB
+zune-inflate 0.2.54
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: 
+    License files: none shipped by the crate - see its repository
+zune-jpeg 0.5.15
+    License: MIT OR Apache-2.0 OR Zlib
+    Source: https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg
+    License files: LICENSE-APACHE, LICENSE-MIT, LICENSE-ZLIB

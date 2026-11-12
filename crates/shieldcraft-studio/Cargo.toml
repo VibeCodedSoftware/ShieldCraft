@@ -1,0 +1,29 @@
+[package]
+name = "shieldcraft-studio"
+description = "ShieldCraft - artwork protection workstation"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+authors.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[[bin]]
+name = "ShieldCraft"
+path = "src/main.rs"
+
+[dependencies]
+shieldcraft-core.workspace = true
+eframe.workspace = true
+egui.workspace = true
+egui-phosphor.workspace = true
+rfd.workspace = true
+image.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+log.workspace = true
+crossbeam-channel.workspace = true
+
+[build-dependencies]
+winresource = "=0.1.31"
+image.workspace = true

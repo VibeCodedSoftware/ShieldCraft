@@ -1,0 +1,33 @@
+ShieldCraft
+Copyright (c) 2026 ShieldCraft contributors.
+Licensed under the MIT License or the Apache License, Version 2.0, at your option
+(LICENSE-MIT, LICENSE-APACHE).
+
+Third-party material
+
+This repository and its release packages include third-party material under its own licenses.
+The full inventory, with per-crate license files, is in THIRD_PARTY_NOTICES.md and the licenses/
+folder. In particular:
+
+- crates/shieldcraft-core/src/engines/hope/ contains a Rust port of code from Hope:RE
+  (https://github.com/HopeArtOrg/hope-re), Copyright (c) 2025 HopeArtOrg, MIT License
+  (licenses/Hope-RE-MIT.txt). Hope:RE's ONNX models are NOT included; the app downloads them on
+  request from Hope:RE's own GitHub releases.
+- third_party/onnxruntime/onnxruntime.dll is the official ONNX Runtime 1.24.2 build,
+  Copyright (c) Microsoft Corporation, MIT License (third_party/onnxruntime/LICENSE.txt, with its
+  ThirdPartyNotices.txt).
+- Interface fonts are embedded through egui (Ubuntu Font Licence 1.0, Hack/Bitstream Vera, SIL OFL
+  1.1, MIT; licenses/FONTS.txt).
+
+Credits and non-affiliation
+
+- Grid Noise Studio independently implements techniques demonstrated by Grid Noise Animator by
+  stelmosfire13-alt (https://github.com/stelmosfire13-alt/Grid-Noise-Animator). That project
+  publishes no license, and none of its code, text or assets are included.
+- "Glaze" and "Nightshade" are projects of the SAND Lab at the University of Chicago. ShieldCraft's
+  "Glaze mode" and "Nightshade mode" are Hope:RE's own methods, named after those projects for
+  description only. ShieldCraft is not affiliated with or endorsed by the University of Chicago,
+  HopeArtOrg, Lantern, Microsoft, or any other project named here.
+- Lantern (https://lantern-us.com) is a third-party hosted service, not open source. ShieldCraft
+  only calls its documented public API when the user asks it to; no Lantern code is included. Use
+  of the service is governed by Lantern's Terms (https://lantern-us.com/terms).

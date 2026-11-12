@@ -1,0 +1,14 @@
+# Build output and release packages (regenerate with cargo / scripts\package.ps1)
+/target/
+/dist/
+
+# Local data written when running with portable.flag
+/data/
+portable.flag
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini

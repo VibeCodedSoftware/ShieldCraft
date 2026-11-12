@@ -1,0 +1,3 @@
+[toolchain]
+# ONNX Runtime prebuilt binaries and the Windows resource compiler require the MSVC toolchain.
+channel = "stable-x86_64-pc-windows-msvc"
